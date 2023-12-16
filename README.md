@@ -1,6 +1,6 @@
 # 106232052310523-1
 
-## Extensions in VS Editor
+## Extensions in VS Editor 
 
 1. Live Server
 2. Prettier - code formatter
@@ -18,7 +18,7 @@ https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettie
 Block Element Modifier
 https://getbem.com/
 
-full_name
+full_name1
 full__name
 full___name
 
